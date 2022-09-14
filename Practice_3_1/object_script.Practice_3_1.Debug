@@ -1,0 +1,16 @@
+debug/Del.o
+debug/add_ml.o
+debug/all_lines.o
+debug/average_l.o
+debug/delete_ml.o
+debug/graphics.o
+debug/lines_by_year.o
+debug/main.o
+debug/window.o
+debug/moc_add_ml.o
+debug/moc_all_lines.o
+debug/moc_average_l.o
+debug/moc_delete_ml.o
+debug/moc_graphics.o
+debug/moc_lines_by_year.o
+debug/moc_window.o

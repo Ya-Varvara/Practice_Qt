@@ -1,0 +1,16 @@
+release/Del.o
+release/add_ml.o
+release/all_lines.o
+release/average_l.o
+release/delete_ml.o
+release/graphics.o
+release/lines_by_year.o
+release/main.o
+release/window.o
+release/moc_add_ml.o
+release/moc_all_lines.o
+release/moc_average_l.o
+release/moc_delete_ml.o
+release/moc_graphics.o
+release/moc_lines_by_year.o
+release/moc_window.o
